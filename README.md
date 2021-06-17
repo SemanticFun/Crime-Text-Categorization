@@ -2,7 +2,7 @@
 
 This repository contains a dataset of 5,683 news articles extracted from an online newspaper, ModenaToday (https://www.modenatoday.it/).
 
-modenatoday.csv contains the identification number of the news article, the url of the web page, title, sub-title, text and type of crime the news article is related to (category).
+<a href="https://github.com/SemanticFun/Crime-Text-Categorization/blob/main/modenatoday.csv">modenatoday.csv</a> contains the identification number of the news article, the url of the web page, title, sub-title, text and type of crime the news article is related to (category).
 
 supervised_categorization.csv contains two columns: the identification number of the news article and the category assigned by the application of a supervised text categorization algorithm.
 
